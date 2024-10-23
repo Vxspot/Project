@@ -11,7 +11,7 @@ if game.PlaceId == 14822302723 then
 end
 
 if game.PlaceId == 335760407 or game.PlaceId == 13762482705 or game.PlaceId == 13804242208 or game.PlaceId == 13804254727 or game.PlaceId == 1597763879 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vxspot/Proyect/refs/heads/main/fuchibolxx.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vxspot/Proyect/refs/heads/main/lolfychixxx.txt"))()
 end
 
 if game.PlaceId == 1962086868 or game.PlaceId == 3582763398 then
