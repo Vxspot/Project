@@ -1,4 +1,3 @@
-
 if game.PlaceId == 10253248401 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vxspot/Proyect/refs/heads/main/obfuscated_Elemental.lua"))()
 end
@@ -15,7 +14,11 @@ if game.PlaceId == 335760407 or game.PlaceId == 13762482705 or game.PlaceId == 1
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vxspot/Proyect/refs/heads/main/FUCHIBOLLLL.lua"))()
 end
 
-
 if game.PlaceId == 1962086868 or game.PlaceId == 3582763398 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vxspot/Proyect/refs/heads/main/Tower%20hell"))()
+end
+
+
+if game.PlaceId == 15259246552 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vxspot/Proyect/refs/heads/main/SUKUNA%20BATTLEGROUNDS"))()
 end
